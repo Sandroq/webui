@@ -5,146 +5,159 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr "Grupos Integrados"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr "Usuarios Integrados"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr "Chequenotificações para maiores detalhes"
 
 msgid " Download Updates"
-msgstr ""
+msgstr "Download de Atualizaçãoes"
 
 msgid " First data vdev is a "
-msgstr ""
+msgstr "Primeiro vdev de Dados é Um "
 
 msgid " First vdev has "
-msgstr ""
+msgstr "primeiro vdev tem"
 
 msgid " First vdev is a "
-msgstr ""
+msgstr "primeiro vdev é um"
 
 msgid " KiB."
-msgstr ""
+msgstr "KiB."
 
 msgid " Plugin"
-msgstr ""
+msgstr "Plugin"
 
 msgid " Service"
-msgstr ""
+msgstr "Serviço"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
 "port number of the UPS <i>Master</i> system. The default port is "
 "<i>3493</i>."
-msgstr ""
+msgstr "Quando o <b> Modo UPS </b> é Definido como <i> Escravo </i>. Entre na Rede Aberta "
+"Número da Porta do Sistema UPS <i> Master </i>. A Porta Padrão é"
+"<i> 3493 </i>."
 
 msgid ""
 " a passphrase invalidates an existing pool  recovery key file. To save a "
 "backup of the existing encryption key  without making any changes, click "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
 msgstr ""
+" uma frase secreta invalida um arquivo de chave de recuperação de pool existente. Para salvar um "
+"backup da chave de criptografia existente sem fazer nenhuma alteração, clique em"
+"<b> BAIXAR CHAVE DE CRIPTOGRAFIA </b>."
+
 
 msgid ""
 " addresses. When this has been chosen, additional addresses cannot be "
 "selected."
 msgstr ""
+" Endereços. Quando isso for escolhido, os endereços adicionais não podem ser "
+"selecionados."
 
 msgid " and "
-msgstr ""
+msgstr " e "
 
 msgid " and will be disrupted if the pool is detached:"
-msgstr ""
+msgstr " e será interrompido se o pool for separado:"
 
 msgid " and will be disrupted if the pool is locked:"
-msgstr ""
+msgstr " e será interrompido se o pool for trancado:"
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " Grupos Integrados (A configuração Padrão é <i>Escondida<i>."
 
 msgid " builtin users (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " Usuarios Integrados (A configuração Padrão é <i>Escondida<i>."
 
 msgid " but datastore "
-msgstr ""
+msgstr " Mas Armazenamento de Dados "
 
 msgid " day, "
-msgstr ""
+msgstr " Dia, "
 
 msgid " days, "
-msgstr ""
+msgstr " Dias, "
 
 msgid " disks"
-msgstr ""
+msgstr " Discos"
 
 msgid " disks, new vdev has "
-msgstr ""
+msgstr " Discos, novo vdev tem "
 
 msgid " is "
-msgstr ""
+msgstr " é "
 
 msgid " is a required field."
-msgstr ""
+msgstr " é um campo obrigatorio"
 
 msgid " is required."
-msgstr ""
+msgstr " é Obrigatorio."
 
 msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
 "possible to use <i>Power Off</i> or the <i>Force Stop  After Timeout</i> "
 "option to stop the VM."
 msgstr ""
+"ainda está em execução, o sistema operacional convidado não respondeu conforme o esperado. É"
+"possível usar <i>Desligar</i> ou <i>Forçar parada após tempo limite</i> "
+"opção para parar a VM."
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
 "system performance."
 msgstr ""
+"é o tamanho mínimo de registro recomendado. Escolher um tamanho menor pode reduzir"
+"a performance do sistema."
 
 msgid " minute"
-msgstr ""
+msgstr " minuto"
 
 msgid " minutes"
-msgstr ""
+msgstr " minutos"
 
 msgid " official plugins"
-msgstr ""
+msgstr " plugins oficiais"
 
 msgid " seconds"
-msgstr ""
+msgstr " segundos"
 
 msgid " seconds."
-msgstr ""
+msgstr " segundos."
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " serviço foi ativado."
 
 msgid " should be at least "
-msgstr ""
+msgstr " deve ser pelo menos "
 
 msgid " should be no more than "
-msgstr ""
+msgstr " não deve ser mais do que "
 
 msgid " successfully saved."
-msgstr ""
+msgstr " salvo com sucesso."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " desbloqueado com sucesso"
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " o sistema esta ligado e conectado na rede."
 
 msgid " to include all "
-msgstr ""
+msgstr " para incluir todos "
 
 msgid " update successful"
-msgstr ""
+msgstr " atualizado com sucesso"
 
 msgid " updated."
-msgstr ""
+msgstr " Atualizado."
 
 msgid "% of all cores"
-msgstr ""
+msgstr "% de todas as cores"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -152,51 +165,55 @@ msgid ""
 "encrypted pools, download and safely store the encryption key and any "
 "passphrase for it."
 msgstr ""
+"'está criptografado! Se a senha para este conjunto criptografado for perdida,"
+"os dados ficarão PERMANENTEMENTE IRRECUPERAVEIS! Antes de exportar/desconectar "
+"pools criptografados, baixe e armazene com segurança a chave de criptografia e qualquer"
+"senha longa para isso."
 
 msgid "'. All data on that pool was destroyed."
-msgstr ""
+msgstr "'. Todos os dados desse Pool foram destruidos."
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "(24 Horas)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Exemplo: 500 KiB, 500M, 2TB)"
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr "(Criptografia legada)"
 
 msgid "(No description)"
-msgstr ""
+msgstr "(Sem descrição)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(Remover pool do banco de dados)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(canto superior direito), então"
 
 msgid ", new Metadata vdev is a "
-msgstr ""
+msgstr ", o novo Metadata vdev é um"
 
 msgid ", new vdev is "
-msgstr ""
+msgstr ", o novo vdev é um"
 
 msgid ". At least one is required."
-msgstr ""
+msgstr ". É necessário pelo menos um."
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr ". Isso está correto?"
 
 msgid "... Make sure the "
-msgstr ""
+msgstr "... Certifique-se de que o"
 
 msgid "0=Disabled, blank=inherit"
-msgstr ""
+msgstr "0=desativado, em branco=herdar"
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "20 Caracteres é o comprimento maximo"
 
 msgid "2FA"
-msgstr ""
+msgstr "2FA"
 
 msgid ": Automatic update check failed. Please check system network settings."
 msgstr ""
